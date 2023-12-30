@@ -1,0 +1,6 @@
+source "C:/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_app_format/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.1/components/partition_table/Kconfig.projbuild"
+source "C:/Users/aitor/Desktop/Master_UMA/03_Microkernels/Tema3_MecanismosIPC/L32_RetardosTimersSW/Recursos-20231114/ESP32_L32/ESP32_L32/main/Kconfig.projbuild"
